@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dragme/static/css/main.005051b8.chunk.css",
+    "main.js": "/dragme/static/js/main.f3faf659.chunk.js",
+    "main.js.map": "/dragme/static/js/main.f3faf659.chunk.js.map",
+    "runtime-main.js": "/dragme/static/js/runtime-main.b64739be.js",
+    "runtime-main.js.map": "/dragme/static/js/runtime-main.b64739be.js.map",
+    "static/js/2.34828cce.chunk.js": "/dragme/static/js/2.34828cce.chunk.js",
+    "static/js/2.34828cce.chunk.js.map": "/dragme/static/js/2.34828cce.chunk.js.map",
+    "index.html": "/dragme/index.html",
+    "precache-manifest.fc0c45f603ce438ed25ae4f2f70728f1.js": "/dragme/precache-manifest.fc0c45f603ce438ed25ae4f2f70728f1.js",
+    "service-worker.js": "/dragme/service-worker.js",
+    "static/css/main.005051b8.chunk.css.map": "/dragme/static/css/main.005051b8.chunk.css.map",
+    "static/js/2.34828cce.chunk.js.LICENSE.txt": "/dragme/static/js/2.34828cce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b64739be.js",
+    "static/js/2.34828cce.chunk.js",
+    "static/css/main.005051b8.chunk.css",
+    "static/js/main.f3faf659.chunk.js"
+  ]
+}
