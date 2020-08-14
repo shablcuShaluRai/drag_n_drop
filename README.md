@@ -1,4 +1,4 @@
-# DRAG ME
+# drag and drop
 
 ## Available Scripts
 
